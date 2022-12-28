@@ -16,7 +16,3 @@ class monitorSystem:
     def ram():
         local_dict = {}
         return local_dict
-
-
-c = monitorSystem.system_details()
-print(c)
